@@ -1,0 +1,5 @@
+{
+  "name": "CineGraph API Client",
+  "description": "A modern frontend for the CineGraph Neo4j Film API, featuring intelligent recommendations, watchlist management, and Gemini-powered insights.",
+  "requestFramePermissions": []
+}
